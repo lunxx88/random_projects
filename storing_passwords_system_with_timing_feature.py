@@ -1,9 +1,7 @@
 ''' 
 Created by: Aisha @lunxx88
 
-this code is for practice only, the idea of it is to see how a timing attack works,
-hence I put a fixed time when comparing to the inputting passwords.
-please let me know if there is an error or any thoughts.
+
 '''
 import json
 import hashlib
